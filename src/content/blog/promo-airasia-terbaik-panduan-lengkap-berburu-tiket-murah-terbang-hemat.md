@@ -4,7 +4,6 @@ description: Jangan lewatkan promo AirAsia! Temukan panduan lengkap cara berburu
   tiket pesawat murah, tips & trik memaksimalkan penawaran, dan rahasia terbang
   hemat bersama AirAsia.
 pubDate: 2025-11-28
-heroImage: https://images.unsplash.com/photo-1559268950-2d7ceb2efa3a
 tags:
   - AirAsia
   - promo pesawat
@@ -14,7 +13,9 @@ tags:
 author:
   name: Bryan Ganteng
 category: Promo
+featuredImage: https://images.unsplash.com/photo-1559268950-2d7ceb2efa3a
 ---
+
 
 
 
