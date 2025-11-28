@@ -1,7 +1,7 @@
 ---
 title: "Promo AirAsia Terbaik: Panduan Lengkap Berburu Tiket Murah & Terbang Hemat!"
 description: "Jangan lewatkan promo AirAsia! Temukan panduan lengkap cara berburu tiket pesawat murah, tips & trik memaksimalkan penawaran, dan rahasia terbang hemat bersama AirAsia."
-pubDate: "2025-11-28T16:05:32.393Z"
+pubDate: "2025-11-28"
 tags:
   - "AirAsia"
   - "promo pesawat"
