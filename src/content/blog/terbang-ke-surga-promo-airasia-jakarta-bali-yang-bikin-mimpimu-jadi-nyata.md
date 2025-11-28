@@ -1,6 +1,6 @@
 ---
 title: "Terbang ke Surga: Promo AirAsia Jakarta Bali yang Bikin Mimpimu Jadi Nyata!"
-pubDate: 2025-11-28T19:38:40.087Z
+pubDate: 2025-11-28
 description: Jangan lewatkan promo AirAsia Jakarta Bali terbaru! Wujudkan
   liburan impianmu di Pulau Dewata dengan harga tiket terbaik. Temukan tips
   booking dan itinerary hemat di sini.
@@ -10,7 +10,10 @@ tags:
   - jakarta bali
   - liburan bali
   - travel hemat
-draft: true
+featuredImage: https://images.unsplash.com/photo-1559268950-2d7ceb2efa3a
+author:
+  name: Bryan Ganteng
+category: Promo
 ---
 
 # Terbang ke Surga: Promo AirAsia Jakarta Bali yang Bikin Mimpimu Jadi Nyata!
