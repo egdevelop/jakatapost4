@@ -11,9 +11,11 @@ tags:
   - tiket murah
   - travel tips
   - liburan hemat
-author: Bryan Ganteng
+author:
+  name: Bryan Ganteng
 category: Promo
 ---
+
 
 
 Siapa sih yang tidak suka jalan-jalan? Apalagi kalau bisa terbang dengan harga yang ramah di kantong! Nah, kalau bicara soal penerbangan hemat, nama AirAsia pasti langsung terlintas di benak banyak orang. Maskapai berbiaya rendah asal Malaysia ini memang dikenal dengan jaringan rutenya yang luas di Asia Tenggara dan sekitarnya, serta tentu saja... **promo AirAsia** yang selalu dinanti-nanti!
